@@ -1,0 +1,27 @@
+{ 
+
+"name":"SBI",
+"branches":[{ "Brc_no":1,
+              "Branch_name":"KVZ",
+              "location":[{"town":"kavali","state":"AP"}],
+               "accout_holder":[{ "c_no":1,
+                                 "c_name":"hemanth",
+								 "acc_no":"36548544455",
+								 "acc_type":"savings",
+                                  "balance":25000,
+                                  "loans":{"loan_id":1,
+											"amount":500000,
+											"type":"education"}}],
+                "employee":[{"e_no":1,
+							 "e_name":"harish",
+							 "join_date":"10march2014",
+							 "job_type":"clerk"},{"e_no":2,
+							 "e_name":"ramesh",
+							 "join_date":"11march2014",
+							 "job_type":"manager"}],
+							 "manager":"employee"
+							}],
+"type":"public sector",
+"headquarters":"mumbai"
+                 
+}
